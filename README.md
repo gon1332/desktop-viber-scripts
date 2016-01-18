@@ -19,12 +19,15 @@ $ cd desktop-viber-scripts
 $ chmod +x *.sh
 ```
 
-*List Contacts*
+**List Contacts**
+
 ```
 $ ./viber_ls_contacts
 ```
 
-*Delete Contact*
+
+**Delete Contact**
+
 In order to delete a contact you need to provide the phone number of the
 contact as an argument. It must contain the '+' character.
 ```
